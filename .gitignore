@@ -1,0 +1,16 @@
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+*/target/**
+target/classes/com/everis/calculadorasimples/Calculadora.class
+target/classes/com/everis/calculadorasimples/TesteIngenuoCalculadora.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/com.everis.calculadorasimples.CalculadoraTest.txt
+target/surefire-reports/TEST-com.everis.calculadorasimples.CalculadoraTest.xml
+target/test-classes/data.csv
+target/test-classes/com/everis/calculadorasimples/CalculadoraTest.class
+
+/target/
